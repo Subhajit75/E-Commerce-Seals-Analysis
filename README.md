@@ -56,10 +56,22 @@ The Power BI dashboard provides:
 - **Category-wise Performance**
 - **Customer Order Patterns**
 
-**Dashboard Preview:**
-
-![E-Commerce Dashboard](E Commerce Data Analysis/images/dashboard.png)
+ ## 🖼 Dashboard Preview
+![E-Commerce Dashboard](E_Commerce_Data_Analysis/images/dashboard.png)
 
 ---
 
 ## 📂 Project Structure
+```bash
+E Commerce Data Analysis/
+│
+├── images/
+│ └── dashboard.png # Power BI dashboard screenshot
+│
+├── E commerce sales Data Analysis Using Python.ipynb # Python data analysis notebook
+├── E commerce sales Data Analysis_1.pbix # Power BI report file
+├── E commerce sales Dataset(Raw).csv # Raw dataset
+├── Processed_Ecommerce_Data.csv # Cleaned dataset
+├── LICENSE
+└── README.md
+```
