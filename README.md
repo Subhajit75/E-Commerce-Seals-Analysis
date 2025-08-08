@@ -7,11 +7,32 @@ The analysis is performed using **Python (Pandas, Matplotlib, Seaborn)** for dat
 ---
 
 ## 🎯 Objectives
-- Clean and preprocess raw e-commerce sales data.
-- Perform **Exploratory Data Analysis (EDA)** to understand sales trends.
-- Identify **top-selling products**, **revenue-generating regions**, and **seasonal patterns**.
-- Use **Power BI** for dynamic dashboards to visualize KPIs.
+- **Data Cleaning & Preprocessing** (Python & Pandas)
+- **Exploratory Data Analysis (EDA)** using Python
+- **Interactive Dashboard** in Power BI
+- **KPIs & Metrics** such as:
+  - Total Sales
+  - Total Orders
+  - Average Order Value
+  - Sales by Category
+  - Sales by State & Region
+  - Monthly Sales Trends
+---
 
+## 📂 Project Structure
+```bash
+E Commerce Data Analysis/
+│
+├── images/
+│ └── dashboard.png # Power BI dashboard screenshot
+│
+├── E commerce sales Data Analysis Using Python.ipynb # Python data analysis notebook
+├── E commerce sales Data Analysis_1.pbix # Power BI report file
+├── E commerce sales Dataset(Raw).csv # Raw dataset
+├── Processed_Ecommerce_Data.csv # Cleaned dataset
+├── LICENSE
+└── README.md
+```
 ---
 
 ## 🗂 Dataset
@@ -25,8 +46,7 @@ The analysis is performed using **Python (Pandas, Matplotlib, Seaborn)** for dat
 - Quantity Ordered  
 - Price Each  
 - Order Date  
-- Purchase Address  
-- Sales Revenue  
+
 
 ---
 
@@ -60,18 +80,31 @@ The Power BI dashboard provides:
 ![E-Commerce Dashboard](E_Commerce_Data_Analysis/images/dashboard.png)
 
 ---
+## 🚀 How to Run
 
-## 📂 Project Structure
-```bash
-E Commerce Data Analysis/
-│
-├── images/
-│ └── dashboard.png # Power BI dashboard screenshot
-│
-├── E commerce sales Data Analysis Using Python.ipynb # Python data analysis notebook
-├── E commerce sales Data Analysis_1.pbix # Power BI report file
-├── E commerce sales Dataset(Raw).csv # Raw dataset
-├── Processed_Ecommerce_Data.csv # Cleaned dataset
-├── LICENSE
-└── README.md
-```
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Subhajit75/E-Commerce-Data-Analysis.git
+   cd E-Commerce-Data-Analysis
+   ```
+   ---
+   ## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-subhajitghosh7590%40gmail.com-red?style=flat&logo=gmail)](mailto:subhajitghosh7590@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhajit_Ghosh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhajit-ghosh-75s90g/)
+
+</div>
+
+## 📜 License
+
+MIT License © 2025 [Subhajit Ghosh](https://www.linkedin.com/in/subhajit-ghosh-75s90g/)
+
+---
+
+<div align="center">
+  
+Made with ❤️ by [Subhajit Ghosh](https://www.linkedin.com/in/subhajit-ghosh-75s90g/)  
+
+</div>
