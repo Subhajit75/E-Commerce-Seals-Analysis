@@ -58,7 +58,7 @@ The Power BI dashboard provides:
 
 **Dashboard Preview:**
 
-![E-Commerce Dashboard](E-Commerce-Data-Analysis/images/dashboard.png)
+![E-Commerce Dashboard](E Commerce Data Analysis/images/dashboard.png)
 
 ---
 
