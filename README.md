@@ -1,41 +1,42 @@
 # 📊 E-Commerce Data Analysis
 
-## 📌 Project Overview
+## 📌 Overview
 This project focuses on analyzing an **E-Commerce Sales Dataset** to uncover meaningful business insights, identify sales trends, and understand customer purchasing behavior.  
 The analysis is performed using **Python (Pandas, Matplotlib, Seaborn)** for data preprocessing & visualization and **Power BI** for creating interactive dashboards.
 
 ---
 
 ## 🎯 Objectives
-- **Data Cleaning & Preprocessing** (Python & Pandas)
-- **Exploratory Data Analysis (EDA)** using Python
-- **Interactive Dashboard** in Power BI
-- **KPIs & Metrics** such as:
+- **Data Cleaning & Preprocessing** using Python (Pandas & NumPy)
+- **Exploratory Data Analysis (EDA)** to uncover trends and patterns
+- **KPI Tracking** including:
   - Total Sales
   - Total Orders
   - Average Order Value
   - Sales by Category
-  - Sales by State & Region
+  - Regional Sales Performance
   - Monthly Sales Trends
+- **Interactive Dashboard** development in Power BI
+
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 ```bash
-E Commerce Data Analysis/
+E-Commerce-Data-Analysis/
 │
 ├── images/
-│ └── dashboard.png # Power BI dashboard screenshot
+│   └── dashboard.png                       # Power BI dashboard preview
 │
-├── E commerce sales Data Analysis Using Python.ipynb # Python data analysis notebook
-├── E commerce sales Data Analysis_1.pbix # Power BI report file
-├── E commerce sales Dataset(Raw).csv # Raw dataset
-├── Processed_Ecommerce_Data.csv # Cleaned dataset
+├── E commerce sales Data Analysis Using Python.ipynb   # Jupyter Notebook (Python Analysis)
+├── E commerce sales Data Analysis_1.pbix               # Power BI dashboard file
+├── E commerce sales Dataset(Raw).csv                   # Raw dataset
+├── Processed_Ecommerce_Data.csv                        # Cleaned dataset
 ├── LICENSE
 └── README.md
 ```
 ---
 
-## 🗂 Dataset
+## 🗂 Dataset Information
 **Processed File:** `Processed_Ecommerce_Data.csv`  
 **Raw File:** `E commerce sales Dataset(Raw).csv`  
 
@@ -46,7 +47,6 @@ E Commerce Data Analysis/
 - Quantity Ordered  
 - Price Each  
 - Order Date  
-
 
 ---
 
@@ -76,6 +76,8 @@ The Power BI dashboard provides:
 - **Category-wise Performance**
 - **Customer Order Patterns**
 
+---
+
  ## 🖼 Dashboard Preview
 ![E-Commerce Dashboard](E_Commerce_Data_Analysis/images/dashboard.png)
 
@@ -87,9 +89,18 @@ The Power BI dashboard provides:
    git clone https://github.com/Subhajit75/E-Commerce-Data-Analysis.git
    cd E-Commerce-Data-Analysis
    ```
-   ---
-   ## 📫 Contact
+2. **Open Jupyter Notebook**
 
+  - Run: E commerce sales Data Analysis Using Python.ipynb
+
+3. **View Power BI Dashboard**
+
+  - Open: E commerce sales Data Analysis_1.pbix in Power BI Desktop
+
+
+---
+   
+## 📫 Contact
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-subhajitghosh7590%40gmail.com-red?style=flat&logo=gmail)](mailto:subhajitghosh7590@gmail.com)
